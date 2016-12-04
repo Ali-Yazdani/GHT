@@ -18,7 +18,7 @@ class color:
 opener = urllib.request.build_opener()
 opener.addheaders = [('User-agent', 'Mozilla/5.0')]
 
-print(color.BOLD+color.YELLOW+"Google Hacking Toolkit (GHT)- Ver : 0.1 - 11 Dec 2013\nThis tool helps you to more easily be able to search in Google"+color.GREEN +" \nCODE BY Ali Yazdani -- https://github.com/Ali-Yazdani"+ color.END)
+print(color.BOLD+color.YELLOW+"Google Hacking Toolkit (GHT)- Ver : 0.1 - 11 Dec 2013\nThis tool helps you to more easily be able to search in Google"+color.GREEN +" \nCODED BY Ali Yazdani -- https://github.com/Ali-Yazdani"+ color.END)
 print(color.CYAN+'Tip: To use several operators add + between operators\nFor example: site:target.com+inurl:/admin/main.aspx'+color.END)
 n = int(input(color.BLUE  +"Enter number of Google page for search: "+ color.END))
 dork = input(color.BLUE  +"Enter DORK: "+ color.END)
