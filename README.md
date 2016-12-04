@@ -2,7 +2,7 @@
 
 This tool helps you to more easily be able to search in Google.
 
-CODED BY Ali Yazdani -- https://aliyazdani.ir
+CODED BY Ali Yazdani -- http://aliyazdani.ir
 
 ## Tip: 
 + To use several operators add + between operators
